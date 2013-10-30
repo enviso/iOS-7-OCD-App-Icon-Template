@@ -1,12 +1,12 @@
 # iOS 7 OCD App Icon Template
 
-Created @savvyapps by @starrcourt. Find the latest download at [LINK HERE]
+Created @savvyapps by @starrcourt. Find the latest download on GitHub https://github.com/savvyapps/iOS-7-OCD-App-Icon-Template
 
 ## General Info
 
-- The Photoshop template is located in the Working Files folder.
-- You can create your own documents or lay the grid over an existing document using the Photoshop actions within the Actions folder.
-- All grid based values are based off of artwork directly from Apple found in the Research folder.
+- The Photoshop template is located in the "Working Files" folder.
+- You can create your own documents or lay the grid over an existing document using the Photoshop actions within the "Actions" folder.
+- All grid based values are based off of artwork from Apple in the "Research" folder.
 
 ## iOS 7 OCD App Icon Template
 
@@ -16,11 +16,17 @@ Created @savvyapps by @starrcourt. Find the latest download at [LINK HERE]
 
 ## Example Workflow
 
-- If you're designing an iPhone app icon start with AppIcon60x60@2x. Once you've completed your design, save and close the smart object.
-- Now duplicate that smart object, rename it to your next desired app icon, open the smart object, and resize it as needed.
-- Delete and replace the grid folder each time you resize the document. Replacing the grid is extremely easy if you use the ios-7_ocd-app-icon-template_grid Photoshop actions included with the template.
-- You'll notice that your design needs to be slightly tweaked each time you resize it. This is where the size specific grids will help you make each app icon pixel perfect for every use.
-- Use the vector masks throughout the template to easily apply the iOS 7 rounded corners to your designs. This can be useful for previewing or exporting your app icons.
+- If you’re designing an iPhone app icon, start with “AppIcon60x60@2x.”
+- Once you’ve completed your design, save and close the smart object.
+- Duplicate the smart object, rename it to your next desired app icon
+- Open the smart object and resize it as needed.
+- Delete and replace the grid folder each time you resize the document.*
+- Notice that your design needs to be slightly tweaked each time you resize it.
+- Use the size specific grids to help you make each app icon pixel perfect for every use.
+- Use the vector masks throughout the template to apply the iOS 7 rounded corners to your designs.
+- This masks can be useful for previewing or exporting your app icons.
+
+* Replacing the grid is extremely easy if you use the ios-7_ocd-app-icon-template_grid Photoshop actions included with the template.
 
 ## App Icon Resources
 
