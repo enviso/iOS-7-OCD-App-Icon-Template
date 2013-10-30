@@ -16,7 +16,7 @@ Created [@savvyapps](https://twitter.com/savvyapps) by [@starrcourt](https://twi
 
 ## Example Workflow
 
-- If you’re designing an iPhone app icon, start with “AppIcon60x60@2x.”
+- If you’re designing an iPhone app icon, start with AppIcon60x60@2x.
 - Once you’ve completed your design, [save and close the smart object](http://help.adobe.com/en_US/photoshop/cs/using/WS41A5B796-6846-4e95-8459-95243441E126.html#WS44303F25-1238-4096-A39D-368AAFBBFC3Da).
 - [Duplicate the smart object](http://help.adobe.com/en_US/photoshop/cs/using/WS41A5B796-6846-4e95-8459-95243441E126.html#WSB0431CBD-5A81-456a-8D49-6BE68D0BB521a), rename it to your next desired app icon
 - Open the smart object and [resize it as needed](http://help.adobe.com/en_US/photoshop/cs/using/WSfd1234e1c4b69f30ea53e41001031ab64-7945a.html#WSfd1234e1c4b69f30ea53e41001031ab64-7939a).
