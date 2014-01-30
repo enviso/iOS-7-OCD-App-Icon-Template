@@ -24,7 +24,8 @@ Created [@savvyapps](https://twitter.com/savvyapps) by [@starrcourt](https://twi
 - Notice that your design needs to be slightly tweaked each time you resize it.
 - Use the size specific grids to help you make each app icon pixel perfect for every use.
 - Use the [vector masks](http://helpx.adobe.com/photoshop/using/masking-layers-vector-masks.html) throughout the template to apply the iOS 7 rounded corners to your designs.
-- This masks can be useful for previewing or exporting your app icons.
+- These masks can be useful for previewing or exporting your app icons.
+- You can export your icons using the existing [slices](http://helpx.adobe.com/en/photoshop/using/slicing-web-pages.html), or by turning on Photoshop's [image asset generator](http://helpx.adobe.com/photoshop/using/generate-assets-layers.html) in the file menu.
 
 * Replacing the grid is extremely easy if you use the ios-7_ocd-app-icon-template_grid [Photoshop actions](http://help.adobe.com/en_US/photoshop/cs/using/WSfd1234e1c4b69f30ea53e41001031ab64-7451a.html) included with the template.
 
